@@ -1,0 +1,14 @@
+@media screen and (max-width: 500px) {
+   
+    /* background-color: blue; */
+  }
+.navbar {
+    height: 75px;
+}
+  @media screen and (max-width: 430px)  and (orientation: portrait) {
+    /* Styles for iPhone 12 Pro in portrait mode */
+    .navbar{
+        height: 130px;
+        } 
+}
+

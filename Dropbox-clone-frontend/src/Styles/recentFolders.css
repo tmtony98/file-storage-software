@@ -1,0 +1,20 @@
+.folder{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    /* width: 250px; */
+    width: 100%;
+    background-color: rgb(253, 170, 61);
+   margin-top: 5px;
+   margin-bottom: 10px;
+
+   border-radius: 8px;
+}
+.folder p{
+    padding-top: 15px;
+    margin-left: 15px;
+}
+#recFolderRow
+{
+    margin-left: -25px;
+}
